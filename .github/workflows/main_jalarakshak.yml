@@ -58,4 +58,4 @@ jobs:
           app-name: 'jalarakshak'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E07E42EF3B774A82944176BC52066498 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41912BDED1EB40DAB4D81B44C4571E4B }}
